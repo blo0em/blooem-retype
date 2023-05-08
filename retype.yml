@@ -1,0 +1,15 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  title: blooem
+  label: wiki
+  logo: ./static/luffylogo.png
+editor:         
+  enabled: false
+links:
+ - text: Discord
+   link: https://discord.gg/YEXYVH2XdR
+   icon: comment-discussion
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
