@@ -8,6 +8,18 @@ icon: paintbrush
 
 ## Last Updated :  MAY 10
 
+<style>
+    .sample {
+        text-align: center;
+        padding-top: 20px;
+        margin-bottom: 20px;
+    }
+</style>
+
+:::sample
+[!button variant="primary" icon="paper-airplane" align="center" target="blank" text="Join Discord Server"](https://discord.gg/YEXYVH2XdR)
+:::
+
 ---
 
 These links will give you canva pro for ~~lifetime~~ a while, so use any one of them or join all. If any of them don't work let me know in discord : blooem#2550.

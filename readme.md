@@ -7,5 +7,16 @@ icon: id-badge
 
 Let's see what I can offer with this wiki.
 
-[!button variant="light" icon=":heart:" text="let's rock and roll" ]
+<style>
+    .sample {
+        text-align: center;
+        padding-top: 20px;
+        margin-bottom: 20px;
+    }
+</style>
+
+:::sample
+[!badge size="xl" variant="dark" icon=":heart:" text="let's rock and roll" ]
+:::
+
 ---
