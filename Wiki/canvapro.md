@@ -25,7 +25,8 @@ icon: paintbrush
 These links will give you canva pro for ~~lifetime~~ a while, so use any one of them or join all. If any of them don't work let me know in discord : blooem#2550.
 
 === Working
-- https://www.canva.com/brand/join?token=7VOGqjnmHbmbhUycA8QmMg&referrer=team-invite 
+- https://www.canva.com/brand/join?token=7VOGqjnmHbmbhUycA8QmMg&referrer=team-invite
+- https://www.canva.com/brand/join?token=PkwJu8H5xVSZoo1GVYIraw&referrer=team-invite (almost full)
 - Will add more links when I get some free time.
 
 ===
