@@ -6,7 +6,7 @@ icon: paintbrush
 
 # Canva Pro
 
-## Last Updated :  MAY 10
+## Last Updated :  MAY 12
 
 <style>
     .sample {
