@@ -3,6 +3,7 @@ icon: file-directory
 visibility: hidden
 order: 800
 ---
+![](./static/dropboxprem.png)
 
 # Dropbox Premium [!badge size="m" variant="Primary" text="Rewrite" ]
 
