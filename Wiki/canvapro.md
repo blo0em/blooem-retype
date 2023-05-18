@@ -6,7 +6,7 @@ icon: paintbrush
 
 # Canva Pro
 
-## Last Updated :  MAY 12
+## Last Updated :  MAY 18
 
 <style>
     .sample {
@@ -25,8 +25,8 @@ icon: paintbrush
 These links will give you canva pro for ~~lifetime~~ a while, so use any one of them or join all. If any of them don't work let me know in discord : blooem#2550.
 
 === Working
-- https://www.canva.com/brand/join?token=7VOGqjnmHbmbhUycA8QmMg&referrer=team-invite
-- https://www.canva.com/brand/join?token=PkwJu8H5xVSZoo1GVYIraw&referrer=team-invite (almost full)
+- https://www.canva.com/brand/join?token=2TowV_JiVTWDl29ZD967qA&referrer=team-invite
+- https://www.canva.com/brand/join?token=S6zU9LPxP-Z7jaEgIzEymg&referrer=team-invite
 - Will add more links when I get some free time.
 
 ===
@@ -40,6 +40,8 @@ These ones below won't probably work. They are mostly the dumps of the ones abov
 === Extras  [!badge size="s" text="Dumps"]()
 
  - https://canva.com/brand/join?token=-E620SqCJwdhrd-6dJbUlw
+ - https://www.canva.com/brand/join?token=7VOGqjnmHbmbhUycA8QmMg&referrer=team-invite
+ - https://www.canva.com/brand/join?token=PkwJu8H5xVSZoo1GVYIraw&referrer=team-invite
  - https://www.canva.com/brand/join?token=DwfyrKaDDcqkiEYrflqIPg&referrer=team-invite
  - https://www.canva.com/brand/join?token=Cyah6oJbFOO9h1msiNx1LQ&referrer=team-invite
  - https://www.canva.com/brand/join?token=QTrv4YknjiLX_7HiZvuIZg&referrer=team-invite

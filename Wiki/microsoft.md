@@ -14,7 +14,7 @@ If you haven't then follow this guide: [E5 Guide](https://rentry.co/E5Register)
 
 ### 1. Get your domain
 - Go to this [website](https://nic.eu.org/arf/en/login/) and sign up.
-- Click `New Domain`and fill up the domain name.
+- Click `New Domain`and fill up the domain name you want. Example: `something.eu.org`
 - Check `server names` for the `Check for correctness of:` and set `NS1.HE.NET` for Name1, `NS2.HE.NET` for Name2, and accordingly for `NS3.HE.NET, NS4.HE.NET, NS5.HE.NET`. 
 !!!We will be changing this to cloudflare nameservers so it won't actually matter what you put here as long as they are valid nameservers.
 !!!
