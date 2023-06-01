@@ -6,7 +6,7 @@ order: 1000
 
 # Design Resources
 
-Collection of some of the best UI/UX deisgn books. The ones starred are my personal favourites.
+Collection of some of the best UI/UX design books. The ones starred are my personal favourites.
 
 !!!warning `Download Source` is the thread containing the download files. `Direct Download` is Gdrive, Mega, or another direct download link so that you don't need an account on the forums to download the files.
 Not all files have direct download links attached so cope.
