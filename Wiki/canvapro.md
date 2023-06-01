@@ -27,6 +27,8 @@ These links will give you canva pro for ~~lifetime~~ a while, so use any one of 
 === Working
 - https://www.canva.com/brand/join?token=5sf5gBFICzTu1PpGoriyVQ&referrer=team-invite
 - https://www.canva.com/brand/join?token=cAZGzekS9MgqjKpC_She5A&referrer=team-invite
+- https://www.canva.com/brand/join?token=D8s8LUo8hgFHJ_GwR-hAGg&referrer=team-invite
+
 - Will add more links when I get some free time.
 
 ===
