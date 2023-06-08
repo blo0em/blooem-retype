@@ -6,6 +6,10 @@ icon: paintbrush
 
 # Canva Pro
 
+!!!danger
+#### I'm currently on a break from Discord and other similar stuffs, which means the links won't be updated until the break is over. Therefore, I kindly request that you refrain from messaging me on Discord, as I won't be able to see them. I apologize for any inconvenience caused and suggest using alternative methods during this period. Hopefully, I'll be back?
+!!!
+
 ## Last Updated :  JUNE 1
 
 <style>
