@@ -30,7 +30,8 @@ Not much active, but using discord now.
 These links will give you canva pro for ~~lifetime~~ a while, so use any one of them or join all. If any of them don't work let me know in discord : blooem#2550.
 
 === Working
-- https://www.canva.com/brand/join?token=1hx7A_m275ZGy3RsoBQ5yA&brandingVariant=edu&referrer=team-invite (almost full)
+- https://www.canva.com/brand/join?token=XW6GwfztCDWOcIeGttTZGw&referrer=team-invite
+ 
 
 
 - Will add more links when I get some free time.
@@ -47,6 +48,7 @@ These ones below won't probably work. They are mostly the dumps of the ones abov
 
  - https://canva.com/brand/join?token=-E620SqCJwdhrd-6dJbUlw
  - https://www.canva.com/brand/join?token=5sf5gBFICzTu1PpGoriyVQ&referrer=team-invite
+ - https://www.canva.com/brand/join?token=1hx7A_m275ZGy3RsoBQ5yA&brandingVariant=edu&referrer=team-invite
  - https://www.canva.com/brand/join?token=cAZGzekS9MgqjKpC_She5A&referrer=team-invite
  - https://www.canva.com/brand/join?token=D8s8LUo8hgFHJ_GwR-hAGg&referrer=team-invite
  - https://www.canva.com/brand/join?token=2TowV_JiVTWDl29ZD967qA&referrer=team-invite
