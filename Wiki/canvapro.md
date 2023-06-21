@@ -31,7 +31,7 @@ These links will give you canva pro for ~~lifetime~~ a while, so use any one of 
 
 === Working
 - https://www.canva.com/brand/join?token=XW6GwfztCDWOcIeGttTZGw&referrer=team-invite
- 
+- https://www.canva.com/brand/join?token=4GBEMwDaso71Hli7DTRLtw&referrer=team-invite
 
 
 - Will add more links when I get some free time.
