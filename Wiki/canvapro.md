@@ -9,7 +9,7 @@ icon: paintbrush
 !!! We now have a private Canva Edu Group available! Please note that it is limited to people with a desperate need due to limited seat availability. You can appeal to join by opening a ticket in my Discord server. STARTING THIS PRIVATE GROUP DOES NOT MEAN I WILL STOP UPDATING LINKS HERE. THIS WIKI WILL REMAIN THE SAME AS BEFORE AND WILL RECEIVE UPDATES ONCE I KNOW THE LINKS ARE EXPIRED!
 !!!
 
-## Last Updated :  JUNE 21
+## Last Updated :  JUNE 29
 
 <style>
     .sample {
@@ -25,11 +25,13 @@ icon: paintbrush
 
 ---
 
-These links will give you canva pro for ~~lifetime~~ a while, so use any one of them or join all. If any of them don't work let me know in discord : blooem#2550.
+These links will give you canva pro for ~~lifetime~~ a while, so use any one of them or join all. If any of them don't work let me know in discord : @blooem.
 
 === Working
-- https://www.canva.com/brand/join?token=XW6GwfztCDWOcIeGttTZGw&referrer=team-invite
-- https://www.canva.com/brand/join?token=4GBEMwDaso71Hli7DTRLtw&referrer=team-invite
+- https://www.canva.com/brand/join?token=XW6GwfztCDWOcIeGttTZGw&referrer=team-invite (subscription is active and i'm not sure if it's full)
+- https://www.canva.com/brand/join?token=4GBEMwDaso71Hli7DTRLtw&referrer=team-invite (subscription is active and i'm not sure if it's full)
+- https://www.canva.com/brand/join?token=8qx-UdI2l99ih3PpVzIUkA&referrer=team-invite (someone please test these and update me on discord)
+- https://www.canva.com/brand/join?token=dacvHxEXzTz7nYWtONKHNw&referrer=team-invite (almost full)
 
 
 - Will add more links when I get some free time.
