@@ -6,9 +6,7 @@ icon: paintbrush
 
 # Canva Pro
 
-!!!danger
-#### ~~I'm currently on a break from Discord and other similar stuffs, which means the links won't be updated until the break is over. Therefore, I kindly request that you refrain from messaging me on Discord, as I won't be able to see them. I apologize for any inconvenience caused and suggest using alternative methods during this period. Hopefully, I'll be back?~~
-Not much active, but using discord now.
+!!! We now have a private Canva Edu Group available! Do note that it is limited to people with desperate need due to limited seat availablity, you can appeal to join by opening a ticket in my discord server. ME STARTING THIS PRIVATE GROUP DOESN'T MEAN I WILL STOP UPDATING LINKS HERE; THIS WIKI WILL REMAIN SAME AS BEFORE AND WILL GET UPDATES ONCE I KNOW THE LINKS ARE EXPIRED !!
 !!!
 
 ## Last Updated :  JUNE 21
