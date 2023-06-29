@@ -6,7 +6,7 @@ icon: paintbrush
 
 # Canva Pro
 
-!!! We now have a private Canva Edu Group available! Do note that it is limited to people with desperate need due to limited seat availablity, you can appeal to join by opening a ticket in my discord server. ME STARTING THIS PRIVATE GROUP DOESN'T MEAN I WILL STOP UPDATING LINKS HERE; THIS WIKI WILL REMAIN SAME AS BEFORE AND WILL GET UPDATES ONCE I KNOW THE LINKS ARE EXPIRED !!
+!!! We now have a private Canva Edu Group available! Please note that it is limited to people with a desperate need due to limited seat availability. You can appeal to join by opening a ticket in my Discord server. STARTING THIS PRIVATE GROUP DOES NOT MEAN I WILL STOP UPDATING LINKS HERE. THIS WIKI WILL REMAIN THE SAME AS BEFORE AND WILL RECEIVE UPDATES ONCE I KNOW THE LINKS ARE EXPIRED!
 !!!
 
 ## Last Updated :  JUNE 21
