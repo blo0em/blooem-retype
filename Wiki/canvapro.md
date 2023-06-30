@@ -20,12 +20,12 @@ icon: paintbrush
 </style>
 
 :::sample
-[!button variant="primary" icon="paper-airplane" align="center" target="blank" text="Join Discord Server"](https://discord.gg/YEXYVH2XdR)
+[!button variant="primary" icon="paper-airplane" align="center" target="blank" text="Join Discord Server"](https://discord.gg/???????)
 :::
 
 ---
 
-These links will give you canva pro for ~~lifetime~~ a while, so use any one of them or join all. If any of them don't work let me know in discord : @blooem.
+These links will give you canva pro for ~~lifetime~~ a while, so use any one of them or join all. If any of them don't work let me know in matrix : @.
 
 === Working
 - https://www.canva.com/brand/join?token=XW6GwfztCDWOcIeGttTZGw&referrer=team-invite (subscription is active and i'm not sure if it's full)
