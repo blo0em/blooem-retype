@@ -50,7 +50,6 @@ P.S Check once in a while to see if uploaded.
 === 4. Practical UI by Adham Dannaway 
 [Original](https://www.practical-ui.com/)
 
-- [Download Source](https://tutflix.org/resources/ebook-practical-ui-user-interface-design-book.9575/) | [Direct Download](https://mega.nz/file/kXYQlLAT#UnH00UCYrlFx9FL-Y8t2BZmOguI218skPqA0XUnpmJY)
 
 ===
 
