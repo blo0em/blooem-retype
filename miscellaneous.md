@@ -22,5 +22,5 @@ This is a collection of some of the tutorials that I use.
 
 - [FMHY](https://fmhy.pages.dev) | [Reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
 - [Weeb Stuff](https://wotaku.pages.dev/)
-- [Champagne Wiki](https://champagne.surge.sh/)
+- [Champagne Wiki](https://champagne.pages.dev/)
 

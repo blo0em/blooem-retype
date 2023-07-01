@@ -8,8 +8,8 @@ branding:
 editor:         
   enabled: false
 links:
- - text: Discord
-   link: https://discord.gg/??????
+ - text: Lemmy
+   link: https://lemmy.fmhy.ml/u/blooem
    icon: comment-discussion
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
