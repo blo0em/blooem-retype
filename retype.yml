@@ -8,6 +8,9 @@ branding:
 editor:         
   enabled: false
 links:
+ - text: Discord
+   link: https://discord.gg/NWBdmZW4es
+   icon: ./static/discord.png
  - text: Lemmy
    link: https://lemmy.fmhy.ml/u/blooem
    icon: comment-discussion

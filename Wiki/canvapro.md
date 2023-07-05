@@ -25,7 +25,7 @@ icon: paintbrush
 
 ---
 
-These links will give you canva pro for ~~lifetime~~ a while, so use any one of them or join all. If any of them don't work let me know in: [Lemmy](https://lemmy.fmhy.ml/u/blooem) or [Email me](mail@blooem.me). (Discord server is private for now, message me to join.)
+These links will give you canva pro for ~~lifetime~~ a while, so use any one of them or join all. If any of them don't work let me know in: [Lemmy](https://lemmy.fmhy.ml/u/blooem), [Discord](https://discord.gg/NWBdmZW4es) or [Email me](mailto:mail@blooem.me). 
 
 === Working
 - https://www.canva.com/brand/join?token=XW6GwfztCDWOcIeGttTZGw&referrer=team-invite (subscription is active and i'm not sure if it's full)
