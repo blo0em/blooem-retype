@@ -28,10 +28,8 @@ icon: paintbrush
 These links will give you canva pro for ~~lifetime~~ a while, so use any one of them or join all. If any of them don't work let me know in: [Lemmy](https://lemmy.fmhy.ml/u/blooem), [Discord](https://discord.gg/NWBdmZW4es) or [Email me](mailto:mail@blooem.me). 
 
 === Working
-- https://www.canva.com/brand/join?token=XW6GwfztCDWOcIeGttTZGw&referrer=team-invite (subscription is active and i'm not sure if it's full)
-- https://www.canva.com/brand/join?token=4GBEMwDaso71Hli7DTRLtw&referrer=team-invite (subscription is active and i'm not sure if it's full)
-- https://www.canva.com/brand/join?token=8qx-UdI2l99ih3PpVzIUkA&referrer=team-invite (someone please test these and update me on discord)
-- https://www.canva.com/brand/join?token=dacvHxEXzTz7nYWtONKHNw&referrer=team-invite (almost full)
+- https://www.canva.com/brand/join?token=VaX5ZBUMm7-e8g6Wedg63A&referrer=team-invite
+- https://www.canva.com/brand/join?token=QY_Iyg312HWGvp90jjbslQ&referrer=team-invite
 
 
 - Will add more links when I get some free time.
@@ -46,7 +44,10 @@ These ones below won't probably work. They are mostly the dumps of the ones abov
 
 === Extras  [!badge size="s" text="Dumps"]()
 
- - https://canva.com/brand/join?token=-E620SqCJwdhrd-6dJbUlw
+ - https://www.canva.com/brand/join?token=XW6GwfztCDWOcIeGttTZGw&referrer=team-invite
+ - https://www.canva.com/brand/join?token=4GBEMwDaso71Hli7DTRLtw&referrer=team-invite
+ - https://www.canva.com/brand/join?token=8qx-UdI2l99ih3PpVzIUkA&referrer=team-invite
+ - https://www.canva.com/brand/join?token=dacvHxEXzTz7nYWtONKHNw&referrer=team-invite
  - https://www.canva.com/brand/join?token=5sf5gBFICzTu1PpGoriyVQ&referrer=team-invite
  - https://www.canva.com/brand/join?token=1hx7A_m275ZGy3RsoBQ5yA&brandingVariant=edu&referrer=team-invite
  - https://www.canva.com/brand/join?token=cAZGzekS9MgqjKpC_She5A&referrer=team-invite
@@ -59,6 +60,7 @@ These ones below won't probably work. They are mostly the dumps of the ones abov
  - https://www.canva.com/brand/join?token=Cyah6oJbFOO9h1msiNx1LQ&referrer=team-invite
  - https://www.canva.com/brand/join?token=QTrv4YknjiLX_7HiZvuIZg&referrer=team-invite
  - https://www.canva.com/brand/join?token=iHoT4eC8q3PiFDdzRFVPDw&referrer=team-invite
+ - https://canva.com/brand/join?token=-E620SqCJwdhrd-6dJbUlw
  - https://www.canva.com/brand/join?token=HZdQRleS4M2HkYKd1VqVug&referrer=team-invite
  - https://www.canva.com/brand/join?token=kJhfpHc21CYL3aKm6LPdLw&referrer=team-invite
  - https://www.canva.com/brand/join?token=Yvmpeio7lPacLr3sRI49oA&referrer=team-invite
