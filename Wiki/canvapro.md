@@ -28,10 +28,10 @@ icon: paintbrush
 These links will give you canva pro for ~~lifetime~~ a while, so use any one of them or join all. If any of them don't work let me know in: [Lemmy](https://lemmy.fmhy.ml/u/blooem), [Discord](https://discord.gg/NWBdmZW4es) or [Email me](mailto:mail@blooem.me). 
 
 === Working
-- https://www.canva.com/brand/join?token=VaX5ZBUMm7-e8g6Wedg63A&referrer=team-invite
-- https://www.canva.com/brand/join?token=QY_Iyg312HWGvp90jjbslQ&referrer=team-invite
-
-
+- https://www.canva.com/brand/join?token=KOIbusyZquCKIyGFitlTQg&brandingVariant=edu&referrer=team-invite
+- https://www.canva.com/brand/join?token=Ihapl_LnlFDHAAoZTLA-RQ&referrer=team-invite
+- https://www.canva.com/brand/join?token=35c6wm5kNFLJXW6lHM_55g&referrer=team-invite
+- https://www.canva.com/brand/join?token=668jlehJT8tgP0b84CIIhA&referrer=team-invite
 - Will add more links when I get some free time.
 
 ===
@@ -45,6 +45,8 @@ These ones below won't probably work. They are mostly the dumps of the ones abov
 === Extras  [!badge size="s" text="Dumps"]()
 
  - https://www.canva.com/brand/join?token=XW6GwfztCDWOcIeGttTZGw&referrer=team-invite
+ - https://www.canva.com/brand/join?token=VaX5ZBUMm7-e8g6Wedg63A&referrer=team-invite
+ - https://www.canva.com/brand/join?token=QY_Iyg312HWGvp90jjbslQ&referrer=team-invite
  - https://www.canva.com/brand/join?token=4GBEMwDaso71Hli7DTRLtw&referrer=team-invite
  - https://www.canva.com/brand/join?token=8qx-UdI2l99ih3PpVzIUkA&referrer=team-invite
  - https://www.canva.com/brand/join?token=dacvHxEXzTz7nYWtONKHNw&referrer=team-invite
