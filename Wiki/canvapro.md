@@ -9,7 +9,7 @@ icon: paintbrush
 !!! We now have a private Canva Edu Group available! Please note that it is limited to people with a desperate need due to limited seat availability. You can appeal to join by opening a ticket in my Discord server. STARTING THIS PRIVATE GROUP DOES NOT MEAN I WILL STOP UPDATING LINKS HERE. THIS WIKI WILL REMAIN THE SAME AS BEFORE AND WILL RECEIVE UPDATES ONCE I KNOW THE LINKS ARE EXPIRED!
 !!!
 
-## Last Updated :  JULY 8
+## Last Updated :  JULY 20
 
 <style>
     .sample {
