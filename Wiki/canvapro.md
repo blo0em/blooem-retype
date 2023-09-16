@@ -6,7 +6,7 @@ icon: paintbrush
 
 # Canva Pro
 
-!!! This wiki isn't being updated anymore, as I don't have enough time to do so. If anyone is interested in taking over, I can arrange some stuff so contact me on discord!
+!!!danger This wiki isn't being updated anymore, as I don't have enough time to do so. If anyone is interested in taking over, I can arrange some stuff so contact me on discord!
 !!!
 
 ## Last Updated :  AUGUST 1
