@@ -6,8 +6,7 @@ icon: paintbrush
 
 # Canva Pro
 
-!!! ~~We now have a private Canva Edu Group available! Please note that it is limited to people with a desperate need due to limited seat availability. You can appeal to join by opening a ticket in my Discord server. STARTING THIS PRIVATE GROUP DOES NOT MEAN I WILL STOP UPDATING LINKS HERE. THIS WIKI WILL REMAIN THE SAME AS BEFORE AND WILL RECEIVE UPDATES ONCE I KNOW THE LINKS ARE EXPIRED!~~
-Nope now we don't. My teacher status just got yeeted away for some reason.
+!!! This wiki isn't being updated anymore, as I don't have enough time to do so. If anyone is interested in taking over, I can arrange some stuff so contact me on discord!
 !!!
 
 ## Last Updated :  AUGUST 1
