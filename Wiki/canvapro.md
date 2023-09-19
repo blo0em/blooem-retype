@@ -6,10 +6,10 @@ icon: paintbrush
 
 # Canva Pro
 
-!!!danger This wiki isn't being updated anymore, as I don't have enough time to do so. If anyone is interested in taking over, I can arrange some stuff so contact me on discord!
+!!!danger This wiki isn't being updated often (I do update it sometimes, but it isn't frequent as before) anymore, as I don't have enough time to do so. If anyone is interested in taking over, I can arrange some stuff so contact me on discord!
 !!!
 
-## Last Updated :  AUGUST 1
+## Last Updated : 18 September
 
 <style>
     .sample {
@@ -28,9 +28,8 @@ icon: paintbrush
 These links will give you canva pro for ~~lifetime~~ a while, so use any one of them or join all. If any of them don't work let me know in: [Lemmy](https://lemmy.fmhy.ml/u/blooem), [Discord](https://discord.gg/NWBdmZW4es) or [Email me](mailto:mail@blooem.me). 
 
 === Working
-- https://www.canva.com/brand/join?token=aYgn9N_55ClMb2IWwtBF5Q&referrer=team-invite
-- https://www.canva.com/brand/join?token=AWiqBwsOMktOrWGKH7IQOA&referrer=team-invite
-- https://www.canva.com/brand/join?token=KKBCiWXlj5iMrym9kmWaAw&referrer=team-invite
+- https://www.canva.com/brand/join?token=f0IQcFzStfE8oP_JuguO1g&referrer=team-invite
+- https://www.canva.com/brand/join?token=NWi5WW45qaxekhZzDZlhmQ&referrer=team-invite
 - Will add more links when I get some free time.
 
 ===
@@ -43,6 +42,9 @@ These ones below won't probably work. They are mostly the dumps of the ones abov
 
 === Extras  [!badge size="s" text="Dumps"]()
  - https://www.canva.com/brand/join?token=KOIbusyZquCKIyGFitlTQg&brandingVariant=edu&referrer=team-invite
+ - https://www.canva.com/brand/join?token=aYgn9N_55ClMb2IWwtBF5Q&referrer=team-invite
+ - https://www.canva.com/brand/join?token=AWiqBwsOMktOrWGKH7IQOA&referrer=team-invite
+ - https://www.canva.com/brand/join?token=KKBCiWXlj5iMrym9kmWaAw&referrer=team-invite
  - https://www.canva.com/brand/join?token=3yX1L1VaGhJf3eq_SkrAzQ&referrer=team-invite
  - https://www.canva.com/brand/join?token=MoKVd1nc5vYeb5SliE6lNg&referrer=team-invite
  - https://www.canva.com/brand/join?token=Ihapl_LnlFDHAAoZTLA-RQ&referrer=team-invite
