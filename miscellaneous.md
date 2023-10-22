@@ -21,6 +21,6 @@ This is a collection of some of the tutorials that I use.
 ## Sites worth checking out
 
 - [FMHY](https://fmhy.pages.dev) | [Reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
-- [Weeb Stuff](https://wotaku.pages.dev/)
+- [Weeb Stuff](https://wotaku.moe/)
 - [Champagne Wiki](https://champagne.pages.dev/)
 
